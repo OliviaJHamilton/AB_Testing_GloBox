@@ -9,7 +9,6 @@ An A/B Test was performed for a fictional International eCommerce Marketplace ca
 ## Table of Contents
 1. Project Report
 2. SQL Queries
-3. Data Extracts (Google Sheets)
 
 ## Dataset
 SQL queries were run to explore, understand, and extract the data from the provided PostgreSQL relational database, with tables and fields as below. 
