@@ -1,7 +1,7 @@
 # GloBox A/B Testing Project
 
 ## Programs and Process
-The data was explored and analysed in SQL to get a full understanding of the dataset using various SQL queries, and the relevant data was then extracted and imported into Google Sheets for further analysis using extra calculations, thereafter the findings were visualized in Tableau where a further degree of analysis was performed, and these findings were then presented to the Stakeholders.
+The data was explored and analysed in SQL to get a full understanding of the dataset using various SQL queries, the relevant data was then extracted and imported into Google Sheets for further analysis using extra calculations, thereafter the findings were visualized in Tableau where a further degree of analysis was performed and visualized, and these findings were then presented to the Stakeholders.
 
 ## Motivation
 An A/B Test was performed for a fictional International eCommerce Marketplace called GloBox. primarily known for its boutique fashion items and high-end decor products, had recently seen tremendous growth in its food and drink offerings, the company wanted to bring awareness to this product category with the primary objective of increasing revenue. The analysis was performed to determine the effectiveness of a banner placed at the top of the GloBox website to highlight the increased offerings in the food and drink category. The two main metrics being assessed for the overall objective of increasing revenue were "Average Amount Spent per User” and “Conversion Rate”. The recommendations were provided to Stakeholders on whether to launch or not launch a new homepage.
